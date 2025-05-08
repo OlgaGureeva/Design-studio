@@ -3455,7 +3455,7 @@ span {
     font-size: 11px;
     font-weight: 400;
 }
-@media (min-width: 500px) {
+@media (min-width: 768px) {
     .gallery-mobile {
         display: none;
     }
@@ -3476,7 +3476,7 @@ span {
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 768px) {
     
     .nav__item {
         display: none;
@@ -3797,9 +3797,5 @@ span {
     }
     .footer {
         display: none;
-    }
-    
-
-
-    
+    }   
 }
